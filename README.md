@@ -1,5 +1,5 @@
 - 👋 Hello, I’m @AmanjotSingh0908
--  I’m interested in Full-Stack Development & Artificial Intelligence
+-  I’m interested in Full-Stack Development & Artificial Intelligence | MAchine Learning
 - 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate on fields like web development, database management and data structures
 - 📫 You can mail me at amanjotsingh0908@outlook.com
