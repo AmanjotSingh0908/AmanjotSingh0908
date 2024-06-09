@@ -24,7 +24,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=AmanjotSingh0908&theme=dracula&title=Commits)](https://github.com/AmanjotSingh0908)
 
 # 📈 Contribution
-[![AmanjotSingh0908's github activity graph](https://activity-graph.herokuapp.com/graph?username=AmanjotSingh0908&theme=react-dark)](https://github.com/AmanjotSignh0908)
+[![AmanjotSingh0908's github activity graph](https://activity-graph.herokuapp.com/graph?username=AmanjotSingh0908&theme=react-dark)](https://github.com/AmanjotSingh0908)
 
 # My GitHub Profile Stats
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AmanjotSingh0908&hide=contribs,prs&theme=radical&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
