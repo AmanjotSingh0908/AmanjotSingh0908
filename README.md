@@ -1,5 +1,3 @@
-![Wallppr github](https://user-images.githubusercontent.com/79020081/190893548-d35f5e6d-49bb-4a9b-864a-9ac126dd01aa.png)
-
 # 👋 Hi, I’m Amanjot Singh Saini
 
 I'm Amanjot Singh, a passionate Software Engineer & tech savvy person with  a year of experience in building scalable web applications and cloud solutions. I specialize in JavaScript, React.js, Next.js, Node.js, and various cloud technologies. I have successfully developed and deployed 5+ applications, consistently improving user engagement and satisfaction.
