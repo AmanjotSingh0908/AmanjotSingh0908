@@ -72,11 +72,6 @@ management.
 
 - **Tech Stack**: React.js, Node.js, Express.js, MongoDB, Serverless Framework, Vercel, AWS Lambda
 
-## 📝 Recent Commits
-
-- [Commit Message 1](https://github.com/AmanjotSingh0908/repository/commit/commit_hash) - A short description of what was changed in this commit.
-- [Commit Message 2](https://github.com/AmanjotSingh0908/repository/commit/commit_hash) - A short description of what was changed in this commit.
-- [Commit Message 3](https://github.com/AmanjotSingh0908/repository/commit/commit_hash) - A short description of what was changed in this commit.
 
 ## 🏆 Achievements
 
