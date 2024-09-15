@@ -37,7 +37,7 @@ I'm Amanjot Singh, a passionate Software Engineer & tech-savvy person with a yea
 </div>
 
 ### Other Languages I Know
-<img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white"> 
+<img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=ffffff">
 
 ## 🌐 Find Me Online
 - [💼 LinkedIn](https://in.linkedin.com/in/amanjot-saini)
