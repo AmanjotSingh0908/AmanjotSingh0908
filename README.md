@@ -1,6 +1,8 @@
+![image](https://github.com/user-attachments/assets/0ffde15d-7bbf-4f98-928e-35dcf3a5b866)
+
 # 👋 Hi, I’m Amanjot Singh Saini
 
-I'm Amanjot Singh, a passionate Software Engineer & tech savvy person with  a year of experience in building scalable web applications and cloud solutions. I specialize in JavaScript, React.js, Next.js, Node.js, and various cloud technologies. I have successfully developed and deployed 5+ applications, consistently improving user engagement and satisfaction.
+I'm Amanjot Singh, a passionate Software Engineer & tech-savvy person with a year of experience in building scalable web applications and cloud solutions. I specialize in JavaScript, React.js, Next.js, Node.js, and various cloud technologies. I have successfully developed and deployed 5+ applications, consistently improving user engagement and satisfaction.
 
 ## 🚀 Skills & Technologies
 
@@ -41,3 +43,50 @@ I'm Amanjot Singh, a passionate Software Engineer & tech savvy person with  a ye
 - [💼 LinkedIn](https://in.linkedin.com/in/amanjot-saini)
 - [🐦 Twitter](https://x.com/AmanjotSaini_)
 - [📖 Medium](https://medium.com/@amanjotsingh0908)
+
+## 📈 My GitHub Stats
+
+![Aman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmanjotSingh0908&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_border=true&theme=radical)
+
+## 📚 Recent Projects
+
+### 1. [ExpenseCalculator](https://github.com/AmanjotSingh0908/expense-calculator)
+Implementing an expense tracking website with category-specific expenses data and user-centric 
+comparisons, utilizing Amazon SQS Service to handle mail service asynchronously, aiming for a 20% 
+improvement in expense management and increase user productivity by 15% for insurance 
+companies.
+- **Tech Stack**: Next.js, Node.js, MongoDB, AWS
+
+### 2. [Confession Website](https://confession-mitwpu.vercel.app/)
+Developed a web application for learning Next.js, enabling anonymous user confessions, and 
+content moderation, currently hosting 22+ live posts.
+
+- **Tech Stack**: Next.js, Node.js, MongoDB, Vercel, MERN stack 
+
+### 3. [Resume Builder](https://github.com/AmanjotSingh0908/CVBuilder)
+Resume Builder | Full Stack Development Project [Github Repo]
+• Developed user-friendly website for information updating and customizing user details for building 
+resume online on the website to improve their ATS score by 20% with backend deployed at AWS 
+Lambda. Implemented user authorization and authentication using JWT Cookies and session
+management.
+
+- **Tech Stack**: React.js, Node.js, Express.js, MongoDB, Serverless Framework, Vercel, AWS Lambda
+
+## 📝 Recent Commits
+
+- [Commit Message 1](https://github.com/AmanjotSingh0908/repository/commit/commit_hash) - A short description of what was changed in this commit.
+- [Commit Message 2](https://github.com/AmanjotSingh0908/repository/commit/commit_hash) - A short description of what was changed in this commit.
+- [Commit Message 3](https://github.com/AmanjotSingh0908/repository/commit/commit_hash) - A short description of what was changed in this commit.
+
+## 🏆 Achievements
+
+- **2nd Prize** in HackMIT Ideathon - March 2024
+- **Top 25** In top 25 teams in SIH Smart India Hackathon - 2024
+
+## 🎓 Certifications
+
+- [Certified Full Stack Developer](#) - Issued by Pixs Institute
+
+---
+
+Feel free to check out my [GitHub profile](https://github.com/AmanjotSingh0908) to see more of my work and contributions!
