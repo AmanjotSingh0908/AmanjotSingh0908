@@ -43,6 +43,7 @@ I'm Amanjot Singh, a passionate Software Engineer & tech-savvy person with a yea
 - [💼 LinkedIn](https://in.linkedin.com/in/amanjot-saini)
 - [🐦 Twitter](https://x.com/AmanjotSaini_)
 - [📖 Medium](https://medium.com/@amanjotsingh0908)
+- [📖 Dev.to](https://dev.to/amanjotsingh)
 
 ## 📈 My GitHub Stats
 
