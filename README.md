@@ -56,7 +56,7 @@ Implementing an expense tracking website with category-specific expenses data an
 comparisons, utilizing Amazon SQS Service to handle mail service asynchronously, aiming for a 20% 
 improvement in expense management and increase user productivity by 15% for insurance 
 companies.
-- **Tech Stack**: Next.js, Node.js, MongoDB, AWS
+- **Tech Stack**: Next.js, Node.js, MongoDB, AWS SQS
 
 ### 2. [Confession Website](https://confession-mitwpu.vercel.app/)
 Developed a web application for learning Next.js, enabling anonymous user confessions, and 
