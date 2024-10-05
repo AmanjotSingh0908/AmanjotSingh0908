@@ -77,7 +77,7 @@ management.
 ## 🏆 Achievements
 
 - **2nd Prize** in HackMIT Ideathon - March 2024
-- **Top 25** In top 25 teams in SIH Smart India Hackathon - 2024
+- **Top 25** In top 25 teams in college for SIH Smart India Hackathon - 2024
 
 ## 🎓 Certifications
 
