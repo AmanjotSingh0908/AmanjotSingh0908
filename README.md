@@ -79,10 +79,5 @@ management.
 - **2nd Prize** in HackMIT Ideathon - March 2024
 - **Top 25** In top 25 teams in college for SIH Smart India Hackathon - 2024
 
-## 🎓 Certifications
-
-- [Certified Full Stack Developer](#) - Issued by Pixs Institute
-
----
 
 Feel free to check out my [GitHub profile](https://github.com/AmanjotSingh0908) to see more of my work and contributions!
