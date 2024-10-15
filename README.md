@@ -73,6 +73,13 @@ management.
 
 - **Tech Stack**: React.js, Node.js, Express.js, MongoDB, Serverless Framework, Vercel, AWS Lambda
 
+### 4. [Realtime Voting System using Kafka](https://github.com/AmanjotSingh0908/Kafka-Mini-Project-on-Realtime-Voting-Sys.git)
+Realtime voting system | Big Data project [Github Repo]
+• Developed a streaming architecture for information updating and customizing voters details and candidate details in
+real-time.
+
+- **Tech Stack**: Python, Kafka, PySpark, Docker, Postgresql, Streamlit, Zookeeper
+
 
 ## 🏆 Achievements
 
