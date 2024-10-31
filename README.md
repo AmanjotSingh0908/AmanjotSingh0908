@@ -89,7 +89,7 @@ real-time.
 
 Feel free to check out my [GitHub profile](https://github.com/AmanjotSingh0908) to see more of my work and contributions!
 
-
+**Visitors:** 
 ![Visitor Count](https://profile-counter.glitch.me/AmanjotSingh0908/count.svg)
 
 
