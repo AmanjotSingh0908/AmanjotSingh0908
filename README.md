@@ -58,13 +58,7 @@ improvement in expense management and increase user productivity by 15% for insu
 companies.
 - **Tech Stack**: Next.js, Node.js, MongoDB, AWS SQS
 
-### 2. [Confession Website](https://confession-mitwpu.vercel.app/)
-Developed a web application for learning Next.js, enabling anonymous user confessions, and 
-content moderation, currently hosting 22+ live posts.
-
-- **Tech Stack**: Next.js, Node.js, MongoDB, Vercel, MERN stack 
-
-### 3. [Resume Builder](https://github.com/AmanjotSingh0908/CVBuilder)
+### 2. [Resume Builder](https://github.com/AmanjotSingh0908/CVBuilder)
 Resume Builder | Full Stack Development Project [Github Repo]
 • Developed user-friendly website for information updating and customizing user details for building 
 resume online on the website to improve their ATS score by 20% with backend deployed at AWS 
@@ -73,13 +67,19 @@ management.
 
 - **Tech Stack**: React.js, Node.js, Express.js, MongoDB, Serverless Framework, Vercel, AWS Lambda
 
-### 4. [Realtime Voting System using Kafka](https://github.com/AmanjotSingh0908/Kafka-Mini-Project-on-Realtime-Voting-Sys.git)
+### 3. [Realtime Voting System using Kafka](https://github.com/AmanjotSingh0908/Kafka-Mini-Project-on-Realtime-Voting-Sys.git)
 Realtime voting system | Big Data project [Github Repo]
 • Developed a streaming architecture for information updating and customizing voters details and candidate details in
 real-time.
 
 - **Tech Stack**: Python, Kafka, PySpark, Docker, Postgresql, Streamlit, Zookeeper
 
+
+### 4. [Confession Website](https://confession-mitwpu.vercel.app/)
+Developed a web application for learning Next.js, enabling anonymous user confessions, and 
+content moderation, currently hosting 22+ live posts.
+
+- **Tech Stack**: Next.js, Node.js, MongoDB, Vercel, MERN stack 
 
 ## 🏆 Achievements
 
