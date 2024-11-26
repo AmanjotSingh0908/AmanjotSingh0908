@@ -34,7 +34,7 @@ I'm Amanjot Singh, a passionate Software Engineer & tech-savvy person with a yea
 <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white">
 <img src="https://img.shields.io/badge/-Microservices-FF6C37?style=flat&logo=microservices&logoColor=white">
 <img src="https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white">
- ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
+<img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white">
 </div>
 
 ### Other Languages I Know
