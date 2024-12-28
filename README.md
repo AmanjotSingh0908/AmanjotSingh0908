@@ -1,6 +1,6 @@
 ![image](https://github.com/user-attachments/assets/0ffde15d-7bbf-4f98-928e-35dcf3a5b866)
 
-# 👋 Hi, I’m Amanjot Singh Saini
+# 👋 Hi, I’m Amanjot Singh Saini 
 
 I'm Amanjot Singh, a passionate Software Engineer & tech-savvy person with a year of experience in building scalable web applications and cloud solutions. I specialize in JavaScript, React.js, Next.js, Node.js, and various cloud technologies. I have successfully developed and deployed 5+ applications, consistently improving user engagement and satisfaction.
  
