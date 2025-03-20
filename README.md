@@ -39,6 +39,7 @@ I'm Amanjot Singh, a passionate Software Engineer & tech-savvy person with a yea
  <img src="https://img.shields.io/badge/Solidity-e6e6e6?style=flat&logo=solidity&logoColor=black">
 <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=Ethereum&logoColor=white">
  <img src="https://img.shields.io/badge/Sonarqube-5190cf?style=flat&logo=sonarqube&logoColor=white">
+<img src = "https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white">
 </div>
 
 ### Other Languages I Know
