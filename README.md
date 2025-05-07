@@ -4,7 +4,7 @@
 
 I'm Amanjot Singh, a passionate Software Engineer & tech-savvy person with a year of experience in building scalable web applications and cloud solutions. I specialize in JavaScript, React.js, Next.js, Node.js, and various cloud technologies. I have successfully developed and deployed 5+ applications, consistently improving user engagement and satisfaction.
   
-## 🚀 Skills & Technologies 
+## 🚀 Skills & Technologies  
 
 ### Languages & Frameworks
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
