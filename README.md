@@ -41,7 +41,7 @@ I'm Amanjot Singh, a passionate Software Engineer & tech-savvy person with a yea
  <img src="https://img.shields.io/badge/Sonarqube-5190cf?style=flat&logo=sonarqube&logoColor=white">
 <img src = "https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white">
 <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white">
-<img src="https://img.shields.io/badge/-cypress-%23E5E5E5?logo=cypress?style=flat&logoColor=058a5e>">
+<img src="https://img.shields.io/badge/Cypress-17202C?logo=cypress&amp;logoColor=white">
   
 </div>
 
