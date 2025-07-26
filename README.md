@@ -100,7 +100,6 @@ Feel free to check out my [GitHub profile](https://github.com/AmanjotSingh0908) 
 
 **Visitors:** 
 
-![Visitor Count](https://profile-counter.glitch.me/AmanjotSingh0908/count.svg)
 ![](https://api.visitorbadge.io/api/VisitorHit?user=AmanjotSingh0908&repo=github-visitors-badge&countColor=%237B1E7A)
 
 
