@@ -58,44 +58,6 @@ I'm Amanjot Singh, a passionate Software Engineer & tech-savvy person with a yea
 
 ![Aman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmanjotSingh0908&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_border=true&theme=radical)
 
-## 📚 Recent Projects
-
-### 1. [ExpenseCalculator](https://github.com/AmanjotSingh0908/expense-calculator)
-Implementing an expense tracking website with category-specific expenses data and user-centric 
-comparisons, utilizing Amazon SQS Service to handle mail service asynchronously, aiming for a 20% 
-improvement in expense management and increase user productivity by 15% for insurance 
-companies.
-- **Tech Stack**: Next.js, Node.js, MongoDB, AWS SQS
-
-### 2. [Resume Builder](https://github.com/AmanjotSingh0908/CVBuilder)
-Resume Builder | Full Stack Development Project [Github Repo]
-• Developed user-friendly website for information updating and customizing user details for building 
-resume online on the website to improve their ATS score by 20% with backend deployed at AWS 
-Lambda. Implemented user authorization and authentication using JWT Cookies and session
-management.
-
-- **Tech Stack**: React.js, Node.js, Express.js, MongoDB, Serverless Framework, Vercel, AWS Lambda
-
-### 3. [Realtime Voting System using Kafka](https://github.com/AmanjotSingh0908/Kafka-Mini-Project-on-Realtime-Voting-Sys.git)
-Realtime voting system | Big Data project [Github Repo]
-• Developed a streaming architecture for information updating and customizing voters details and candidate details in
-real-time.
-
-- **Tech Stack**: Python, Kafka, PySpark, Docker, Postgresql, Streamlit, Zookeeper
-
-
-### 4. [Confession Website](https://confession-mitwpu.vercel.app/)
-Developed a web application for learning Next.js, enabling anonymous user confessions, and 
-content moderation, currently hosting 22+ live posts.
-
-- **Tech Stack**: Next.js, Node.js, MongoDB, Vercel, MERN stack 
-
-## 🏆 Achievements
-
-- **2nd Prize** in HackMIT Ideathon - March 2024
-- **Top 25** In top 25 teams in college for SIH Smart India Hackathon - 2024
-
-
 Feel free to check out my [GitHub profile](https://github.com/AmanjotSingh0908) to see more of my work and contributions!
 
 **Visitors:** 
