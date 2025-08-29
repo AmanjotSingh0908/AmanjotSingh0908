@@ -14,6 +14,7 @@ I'm Amanjot Singh, a passionate Software Engineer & tech-savvy person with a yea
 <img src="https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react&logoColor=black">
 <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=node.js&logoColor=white"> 
 <img src="https://img.shields.io/badge/-Express.js-787878?style=flat&logo=express&logoColor=white">
+<img src="https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white">  
 <img src="https://img.shields.io/badge/-REST%20API-4A90E2?style=flat&logo=rest&logoColor=white">
 <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white">
 <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white">
