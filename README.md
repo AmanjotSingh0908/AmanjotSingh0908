@@ -1,6 +1,6 @@
-![image](https://github.com/user-attachments/assets/0ffde15d-7bbf-4f98-928e-35dcf3a5b866)
-
-# 👋 Hi, I’m Amanjot Singh Saini 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=600&size=28&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Amanjot;Software+Engineer;HFT+%26+FinTech+Developer;Full+Stack+Wizard" alt="Typing SVG" />
+</div>
 
 I'm Amanjot Singh, a passionate Software Engineer & tech-savvy person with a year of experience in building scalable web applications and cloud solutions. I specialize in JavaScript, React.js, Next.js, Node.js, and various cloud technologies. I have successfully developed and deployed 5+ applications, consistently improving user engagement and satisfaction.
   
@@ -49,8 +49,7 @@ I'm Amanjot Singh, a passionate Software Engineer & tech-savvy person with a yea
 ### Other Languages I Know
 <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Python-3.9%20%7C%203.10%20%7C%203.11%20%7C%203.12-blue" >
 
-### Current work ID: 
-http://github.com/amanjotsaini
+[![Work GitHub](https://img.shields.io/badge/Work_Profile-amanjotsaini-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amanjotsaini)
 
 ## 🌐 Find Me Online
 - [💼 LinkedIn](https://in.linkedin.com/in/amanjot-saini)
@@ -60,12 +59,15 @@ http://github.com/amanjotsaini
 
 ## 📈 My GitHub Stats
 
-![Aman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmanjotSingh0908&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_border=true&theme=radical)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AmanjotSingh0908&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 Feel free to check out my [GitHub profile](https://github.com/AmanjotSingh0908) to see more of my work and contributions!
 
 **Visitors:** 
 
 ![](https://api.visitorbadge.io/api/VisitorHit?user=AmanjotSingh0908&repo=github-visitors-badge&countColor=%237B1E7A)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=AmanjotSingh0908&theme=radical&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 
 
