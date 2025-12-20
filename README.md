@@ -57,10 +57,6 @@ I'm Amanjot Singh, a passionate Software Engineer & tech-savvy person with a yea
 - [📖 Medium](https://medium.com/@amanjotsingh0908)
 - [📖 Dev.to](https://dev.to/amanjotsingh)
 
-## 📈 My GitHub Stats
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AmanjotSingh0908&theme=radical&hide_border=true)](https://git.io/streak-stats)
-
 Feel free to check out my [GitHub profile](https://github.com/AmanjotSingh0908) to see more of my work and contributions!
 
 **Visitors:** 
