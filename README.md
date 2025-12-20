@@ -66,8 +66,5 @@ Feel free to check out my [GitHub profile](https://github.com/AmanjotSingh0908) 
 **Visitors:** 
 
 ![](https://api.visitorbadge.io/api/VisitorHit?user=AmanjotSingh0908&repo=github-visitors-badge&countColor=%237B1E7A)
-[![Trophies](https://github-profile-trophy.vercel.app/?username=AmanjotSingh0908&theme=radical&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-
 
 
