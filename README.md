@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=600&size=28&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Amanjot;Software+Engineer;HFT+%26+FinTech+Developer;Full+Stack+Wizard" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=600&size=28&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Amanjot;Software+Engineer;Full+Stack+Wizard" alt="Typing SVG" />
 </div>
 
-I'm Amanjot Singh, a passionate Software Engineer & tech-savvy person with a year of experience in building scalable web applications and cloud solutions. I specialize in JavaScript, React.js, Next.js, Node.js, and various cloud technologies. I have successfully developed and deployed 5+ applications, consistently improving user engagement and satisfaction.
+I'm Amanjot Singh, a passionate Software Engineer & tech-savvy person with a year of experience in building scalable web applications and cloud solutions. I specialize in JavaScript frameworks, and various cloud technologies. I have successfully developed and deployed multiple applications, consistently improving user engagement and satisfaction.
   
 ## 🚀 Skills & Technologies  
 
